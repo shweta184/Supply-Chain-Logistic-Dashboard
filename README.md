@@ -130,13 +130,3 @@ The dataset includes:
 
 ---
 
-## 📌 Author
-
-**Shweta Ubnare**
-Data Analyst | Power BI | SQL | Excel
-
----
-
-## ⭐ Feedback
-
-If you found this project useful or insightful, feel free to ⭐ the repository.
